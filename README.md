@@ -1,5 +1,6 @@
-<h1 align="center">Hi there👋, I'm Mor</h1>
-<h3 align="center">💻 I'm a B.Sc computer science student</h3>
+<h1 align="left">Hi there👋, I'm Mor</h1>
+
+💻 I'm a B.Sc computer science student
 
 📫 How to reach me: **mor.goodsign@gmail.com**
 
